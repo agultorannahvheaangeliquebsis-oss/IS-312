@@ -1,7 +1,7 @@
 # IS-312
 # **Framework Used**
 
-The website that we built during class used Flask, that is a lightweight Python web framework.
+The simple website we built during class used the framework Flask, it is a lightweight Python web framework.
 Flask is usually used for small web applications and APIs because it is simple and easy to get started with.
 
 # **How to run the application locally**
